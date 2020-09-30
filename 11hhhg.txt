@@ -1,0 +1,8 @@
+echo "# liliom.code" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/liliom292/liliom.code.git
+git push -u origin master
+                
